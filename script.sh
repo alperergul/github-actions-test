@@ -1,4 +1,3 @@
 #!/bin/sh
-chmod +x script.sh
-echo $1
+echo $1 $2
 echo "Hello World"
